@@ -3,7 +3,7 @@ GPQuery
 
 ## Overview
 
-**GPQuery** is a [data visualisation][wiki-datavis] web application for historical Formula One Grand Prix Racing records (1950 to present), created with Javascript and PHP by Jonathan Ho <joho@joho.us> as an educational and research project in full-stack development.
+**GPQuery** is a [data visualisation][wiki-datavis] web application for historical Grand Prix Racing records dating back to 1950, written in Javascript and PHP by Jonathan Ho <joho@joho.us> as an educational and research project in full-stack development.
 
 GPQuery consists of two custom-built applications: a front-end user interface written in [AngularJS][angular]; a back-end REST service based on an innovative pairing of [Slim Framework][slim] and [Laravel's][laravel] [Eloquent ORM][eloquent].
 
